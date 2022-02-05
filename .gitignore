@@ -1,0 +1,13 @@
+.vscode/
+*/.vscode/
+**/.vscode/
+
+CMakeFiles/
+*/CMakeFiles/
+**/CMakeFiles/
+CMakeCache.txt
+*.cmake
+Makefile
+
+*.bin
+*.o
